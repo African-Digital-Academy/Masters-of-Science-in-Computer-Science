@@ -41,7 +41,7 @@ Course Structure and Duration
 
 Course Outline
 Core Course Units
-Code      |Title 	|Hours
+|Code -|      |Title - 	|Hours
  SCS 701	 Design and Analysis of Algorithms	60
  SCS 702	 Research Methodology	30
  SCS 703	 Computer Logic and Symbolic Reasoning	60
