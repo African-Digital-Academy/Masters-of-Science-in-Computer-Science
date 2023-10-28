@@ -1,4 +1,4 @@
-# Masters-of-Science-in-Computer-Science
+# Masters of Science in Computer-Science
 
 Africal Digital University<br>
 Open Campus<br>
