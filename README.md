@@ -18,7 +18,7 @@ The objectives of the programme are to:<br>
 *	produce high quality education, research, systems and products that competes effectively at the global level.
 *	provide an exit point in the form of a Postgraduate Diploma in Computer Science for those candidates who do not wish to undertake a substantive project upon successful completion of the core course units.
 
-Entry Requirements
+Entry Requirements<br>
 *	The common regulations for the Masters degree in all faculties shall apply.
 *	The minimum requirements for eligibility into the Master of Science in Computer Science are:
 *	Holders of a Bachelor's degree in Computer Science, of at least Upper Second Class Honours or an equivalent qualification..
@@ -26,7 +26,7 @@ Entry Requirements
 *	Holders of a Bachelor's degree in Computer Science with a Pass degree or an equivalent qualification. In addition the applicant should have at least 4 years relevant experience.
 *	Holders of a Bachelor's degree in a related discipline Engineering, Mathematics, Statistics and Physics of at least Upper Second Class Honours or an equivalent qualification. In addition the candidate must hold a Postgraduate Diploma in Computer Science, of a minimum Credit grade or an equivalent qualification from an institution recognised by Senate.
 
-Course Structure and Duration
+Course Structure and Duration<br>
 * Each academic year shall have three semesters of 15 weeks each.
 * The programme shall extend over a minimum of four semesters and a maximum of twelve semesters
 * The Master of Science in Computer Science shall be offered by coursework, examination and project.
@@ -91,7 +91,7 @@ Code	Title	Hrs<br>
 SCS 759	Project (Postgraduate Diploma)	120<br>
 SCS 799	Project (MSc)	360<br>
 
-Examination Regulations
+Examination Regulations<br>
 All taught course units shall be examined at the end of the respective semesters by African Digital Academy.<br>
 A candidate for the degree shall satisfactorily complete such coursework and practical assignments as may be required for the scheme of study.<br>
 A written examination for a course unit shall have a minimum duration of three hours.<br>
