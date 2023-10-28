@@ -39,8 +39,8 @@ Course Structure and Duration<br>
 * For those opting to exit with a Postgraduate Diploma in Computer Science, the research project shall be equivalent to two course units.
 * A candidate shall be required to take a minimum of two course units and a maximum of four course units in any given semester.
 
-Course Outline
-Core Course Units
+Course Outline<br>
+Core Course Units<br>
 |Code -|      |Title - 	|Hours<br>
  SCS 701	 Design and Analysis of Algorithms            	60<br>
  SCS 702	 Research Methodology	                         30<br>
