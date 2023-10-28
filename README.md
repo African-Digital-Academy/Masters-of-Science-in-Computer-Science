@@ -41,13 +41,13 @@ Course Structure and Duration
 
 Course Outline
 Core Course Units
-|Code -|      |Title - 	|Hours
- SCS 701	 Design and Analysis of Algorithms	60<br>
- SCS 702	 Research Methodology	30<br>
- SCS 703	 Computer Logic and Symbolic Reasoning	60<br>
- SCS 704	 Theory of Computation	60<br>
- SCS 705	 Distributed and Parallel Computing	60<br>
- SCS 706	 Multi-agents Systems	60<br>
+|Code -|      |Title - 	|Hours<br>
+ SCS 701	 Design and Analysis of Algorithms            	60<br>
+ SCS 702	 Research Methodology	                         30<br>
+ SCS 703	 Computer Logic and Symbolic Reasoning	        60<br>
+ SCS 704	 Theory of Computation	                        60<br>
+ SCS 705	 Distributed and Parallel Computing	           60<br>
+ SCS 706	 Multi-agents Systems	                         60<br>
  SCS 707	 Information Systems Strategic Management	60<br>
  SCS 708	 Business Process Re-engineering	60<br>
  SCS 709	 Human Computer Interaction	60<br>
