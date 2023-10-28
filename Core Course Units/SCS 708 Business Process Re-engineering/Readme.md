@@ -1,11 +1,11 @@
 # Course Outline
 Let's create a detailed course outline for "SCS 708 - Business Process Re-engineering," a core course that focuses on the principles and practices of re-engineering business processes for improved efficiency and effectiveness.<br>
 
-Course Title: Business Process Re-engineering
+<p><b> Course Title: Business Process Re-engineering</b>
 
-Course Code: SCS 708
+<p> Course Code: SCS 708</p>
 
-Duration: 60 hours
+<p>Duration: 60 hours</p>
 
 Course Description:<br>
 "SCS 708 - Business Process Re-engineering" is designed to provide students with a deep understanding of the principles, techniques, and methodologies involved in re-engineering and optimizing business processes. The course covers the analysis, redesign, and implementation of business processes to enhance organizational efficiency and effectiveness.<br>
