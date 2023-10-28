@@ -1,16 +1,16 @@
 # Masters-of-Science-in-Computer-Science
 
-Africal Digital University
-Open Campus
+Africal Digital University<br>
+Open Campus<br>
 
-Master of Science Degree in Computer Science
-During our era, nobody was willing to share their knowledge for free. What was available were free Youtube playlists and several other unstructured curricula. All the free structured programs like Linda are now premiums courses which people cannot afford unless you have some good cash.
-With this shorateg comes motivation of us starting open universities to curbe the learning challenges.
+Master of Science Degree in Computer Science<br>
+During our era, nobody was willing to share their knowledge for free. What was available were free Youtube playlists and several other unstructured curricula. All the free structured programs like Linda are now premiums courses which people cannot afford unless you have some good cash.<br>
+With this shorateg comes motivation of us starting open universities to curbe the learning challenges.<br>
 
-Welcome to this free open Masters of Science program.
+Welcome to this free open Masters of Science program.<br>
 
-The objectives of the programme are to:
-•	create new opportunities for postgraduate research in Computer Science
+The objectives of the programme are to:<br>
+* create new opportunities for postgraduate research in Computer Science
 •	contribute to the production of Computer Science professionals required at the various levels of our industrial development.
 •	inculcate a proactive and relevant information communication technology (ICT) research and development community.
 •	foster national and regional collaboration in Computer Science
