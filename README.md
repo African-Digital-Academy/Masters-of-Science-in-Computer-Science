@@ -11,33 +11,33 @@ Welcome to this free open Masters of Science program.<br>
 
 The objectives of the programme are to:<br>
 * create new opportunities for postgraduate research in Computer Science
-•	contribute to the production of Computer Science professionals required at the various levels of our industrial development.
-•	inculcate a proactive and relevant information communication technology (ICT) research and development community.
-•	foster national and regional collaboration in Computer Science
-•	collaborate with industry to develop ICT products, systems and services that address key economic needs.
-•	produce high quality education, research, systems and products that competes effectively at the global level.
-•	provide an exit point in the form of a Postgraduate Diploma in Computer Science for those candidates who do not wish to undertake a substantive project upon successful completion of the core course units.
+* contribute to the production of Computer Science professionals required at the various levels of our industrial development.
+* inculcate a proactive and relevant information communication technology (ICT) research and development community.
+*	foster national and regional collaboration in Computer Science
+*	collaborate with industry to develop ICT products, systems and services that address key economic needs.
+*	produce high quality education, research, systems and products that competes effectively at the global level.
+*	provide an exit point in the form of a Postgraduate Diploma in Computer Science for those candidates who do not wish to undertake a substantive project upon successful completion of the core course units.
 
 Entry Requirements
-•	The common regulations for the Masters degree in all faculties shall apply.
-•	The minimum requirements for eligibility into the Master of Science in Computer Science are:
-•	Holders of a Bachelor's degree in Computer Science, of at least Upper Second Class Honours or an equivalent qualification..
-•	Holders of a Bachelor's degree in Computer Science with a Lower Second Class Honours or an equivalent qualification. In addition, the applicant should have at least 2 years relevant experience.
-•	Holders of a Bachelor's degree in Computer Science with a Pass degree or an equivalent qualification. In addition the applicant should have at least 4 years relevant experience.
-•	Holders of a Bachelor's degree in a related discipline Engineering, Mathematics, Statistics and Physics of at least Upper Second Class Honours or an equivalent qualification. In addition the candidate must hold a Postgraduate Diploma in Computer Science, of a minimum Credit grade or an equivalent qualification from an institution recognised by Senate.
+*	The common regulations for the Masters degree in all faculties shall apply.
+*	The minimum requirements for eligibility into the Master of Science in Computer Science are:
+*	Holders of a Bachelor's degree in Computer Science, of at least Upper Second Class Honours or an equivalent qualification..
+*	Holders of a Bachelor's degree in Computer Science with a Lower Second Class Honours or an equivalent qualification. In addition, the applicant should have at least 2 years relevant experience.
+*	Holders of a Bachelor's degree in Computer Science with a Pass degree or an equivalent qualification. In addition the applicant should have at least 4 years relevant experience.
+*	Holders of a Bachelor's degree in a related discipline Engineering, Mathematics, Statistics and Physics of at least Upper Second Class Honours or an equivalent qualification. In addition the candidate must hold a Postgraduate Diploma in Computer Science, of a minimum Credit grade or an equivalent qualification from an institution recognised by Senate.
 
 Course Structure and Duration
-• Each academic year shall have three semesters of 15 weeks each.
-• The programme shall extend over a minimum of four semesters and a maximum of twelve semesters
-• The Master of Science in Computer Science shall be offered by coursework, examination and project.
-• The programme shall consist of twelve and a half taught course units and the project.
-• For those opting to exit with a Postgraduate Diploma in Computer Science, the programme shall consist of nine and a half compulsory course units and a project
-• A course unit shall be defined as 60 contact hours comprising of lectures, tutorials and laboratories.
-• A candidate shall take nine and a half compulsory course (units) and three electives.
-• The choice of the three electives shall be approved by the School.
-• The research project shall be equivalent to six course units.
-• For those opting to exit with a Postgraduate Diploma in Computer Science, the research project shall be equivalent to two course units.
-• A candidate shall be required to take a minimum of two course units and a maximum of four course units in any given semester.
+* Each academic year shall have three semesters of 15 weeks each.
+* The programme shall extend over a minimum of four semesters and a maximum of twelve semesters
+* The Master of Science in Computer Science shall be offered by coursework, examination and project.
+* The programme shall consist of twelve and a half taught course units and the project.
+* For those opting to exit with a Postgraduate Diploma in Computer Science, the programme shall consist of nine and a half compulsory course units and a project
+* A course unit shall be defined as 60 contact hours comprising of lectures, tutorials and laboratories.
+* A candidate shall take nine and a half compulsory course (units) and three electives.
+* The choice of the three electives shall be approved by the School.
+* The research project shall be equivalent to six course units.
+* For those opting to exit with a Postgraduate Diploma in Computer Science, the research project shall be equivalent to two course units.
+* A candidate shall be required to take a minimum of two course units and a maximum of four course units in any given semester.
 
 Course Outline
 Core Course Units
