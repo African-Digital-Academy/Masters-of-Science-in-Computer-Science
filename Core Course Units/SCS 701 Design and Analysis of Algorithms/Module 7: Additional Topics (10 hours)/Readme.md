@@ -6,8 +6,8 @@ Duration: 10 hours
 
 Class Notes:
 
-<p><b>Advanced Data Structures</b>
-Introduction to Advanced Data Structures:
+<p><b>Topic 1:- Advanced Data Structures</b><br>
+Introduction to Advanced Data Structures:<br>
 
 Advanced data structures play a vital role in computer science and are essential for efficiently managing and manipulating data in various applications.
 
